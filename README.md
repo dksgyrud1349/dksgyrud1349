@@ -37,17 +37,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dksgyrud1349&show_icons=true&theme=radical" alt="Hyokyung's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dksgyrud1349&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ## 🌟 EXPERIENCE (1년 6개월)
-- **플랫폼 사업부 풀스택 개발자**
-- 
+- **풀스택 개발자**
 - **통합 솔루션 구축**: 웹 예약 - 키오스크 결제 - 입장/탑승 시스템 전 과정 참여
 - **하드웨어 연동**: 카드리더기, 안면인식기, QR 게이트, 태블릿 등 멀티 디바이스 API 실시간 연동
 - **시스템 안정화**: 인천 MICE뷰로 메인 담당자로서 **결함 약 100여 건 해결 및 결함 0건 달성**
