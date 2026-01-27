@@ -1,5 +1,5 @@
 # 👋 Hello, 안녕하세요.
-# 💻 안효경 (An Hyokyung) | Backend Developer
+# 💻 안효경 (An Hyokyung) | Full-Stack Developer
 > **"화면 너머 현장의 흐름까지 설계하는, 웹 개발자"**
 >
 > Java/Spring 기반의 탄탄한 설계 능력을 바탕으로, 웹부터 웹 기반 키오스크·태블릿까지 아우르는 멀티 플랫폼 시스템의 안정화를 주도합니다.
