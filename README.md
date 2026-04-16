@@ -2,7 +2,13 @@
 # 💻 안효경 (An Hyokyung) | Full-Stack Web Developer
 > **"웹·모바일·키오스크까지, 서비스 전 과정을 설계·개발·운영하는 실무형 개발자"**
 >
-> 월평균 1.2만 명(일 평균 약 400명)이 이용하는 예약·결제·입장 시스템의 설계부터 운영까지 전 과정을 담당했습니다. 공공기관 서비스에서는 100여 건 이상의 결함을 전수 개선하고, 실시간 장애 대응과 정기 점검 기반의 선제적 관리 체계를 구축하여 시스템 안정성을 확보했습니다. 이후 정기 점검 및 유지보수 과정에서 오류 발생 0건을 유지했습니다. 또한 웹 서비스뿐만 아니라 모바일 앱 API, 키오스크·태블릿 등 다양한 디바이스와 연동되는 비즈니스 로직을 설계·개발하고, 하드웨어 제어까지 포함한 통합 시스템을 구현했습니다. 이를 통해 다양한 환경에서도 안정적인 서비스 운영과 비즈니스 로직의 완성도를 함께 고려한 설계를 수행해왔습니다.
+> 웹 개발자로 커리어를 시작하여, 월평균 1.2만 명이 이용하는 예약·결제·입장 시스템의 설계부터 운영까지 전 과정을 담당했습니다. 웹 서비스뿐만 아니라 모바일 앱 API, 키오스크·태블릿 등 다양한 디바이스와 연동되는 비즈니스 로직을 설계·개발하고, 하드웨어 제어까지 포함한 통합 시스템을 구현했습니다.
+
+실무에서는 공공기관 서비스의 100여 건 결함을 긴급도·영향도 기반으로 우선순위 수립하고 일일 작업량을 설정하여 3개월 내 100여 건의 오류를 개선했습니다. 또한, 실시간 장애 대응과 정기 점검 기반의 선제적 관리 체계를 구축하여 유지보수 6개월 차 이후 오류 발생 0건을 달성했습니다.
+
+프론트엔드 역량을 늘리기 위해 React·Next.js 기반 프론트엔드까지 직접 개발하며 풀스택 역량을 넓히고 있습니다.
+
+서비스 흐름을 이해하고 설계부터 운영까지 책임질 수 있는 개발자를 지향합니다.
 
 ---
 
@@ -19,7 +25,10 @@
 </p>
 
 ### 💻 Front-end & Database
-<p align="left">
+<p align="left"> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
